@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Play>https://github.com/nimaamintaghavi/fileshare/raw/main/s.mp3</Play>
+    <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
 </Response>
